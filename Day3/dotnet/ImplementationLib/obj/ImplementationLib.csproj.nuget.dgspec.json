@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\ImplementationLib\\ImplementationLib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\ImplementationLib\\ImplementationLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\ImplementationLib\\ImplementationLib.csproj",
+        "projectName": "ImplementationLib",
+        "projectPath": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\ImplementationLib\\ImplementationLib.csproj",
+        "packagesPath": "C:\\Users\\rr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\ImplementationLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\SpecificationLib.csproj": {
+                "projectPath": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\SpecificationLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\SpecificationLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\SpecificationLib.csproj",
+        "projectName": "SpecificationLib",
+        "projectPath": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\SpecificationLib.csproj",
+        "packagesPath": "C:\\Users\\rr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rr\\Desktop\\DOT_NET\\Sir_Daily_code\\Day3\\dotnet\\SpecificationLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

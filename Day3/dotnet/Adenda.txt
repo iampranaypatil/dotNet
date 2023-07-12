@@ -1,0 +1,130 @@
+
+
+
+.net framework-----------------windows compatible .net-------2000
+.net core----------------------cross platform .net-------27 June 2016
+
+
+
+Day 2:
+
+Agenda:
+
+.net core installable:
+ 
+I .net SDK------ CLR + CTS  + CLI
+	 1.Common Language Runtime (Execution Engine like JVM)
+		loading assembly (Assembly loader)
+		code verification (code verifier)
+		Just intime compilation (JIT compiler)
+		GC (Garbage Collector)
+
+ 
+	 2.Common Type System =(FCL[more than 65000 classes] + CLS)
+	 	a.FCL:Framework Class Library  (.dll)
+			Assembly:logical unit of deployment on .net
+				PE Header (ported Executable Header)
+				CLR Header(common language runtime header)
+				Manifest
+				Metadata( type information about variables used in il code)
+				IL code
+				(set of instructions which are targetted to CLR)
+		 	b.CLS:Common Language Specification
+	 
+	3.Command Line Interface(CLI)
+		dotnet new sln
+		dotnet new console
+		dotnet build
+		dotnet run
+		dotnet test
+		dotnet add package
+		dotnet restore
+			nugget package manager-----.net Package Manager
+
+
+After Tea Break
+
+II. C# Language Keywords
+	
+	Code:
+		Source code (.cs)
+		Managed Code: managed by CLR (IL code)
+		
+		UnManaged Code :not managed by CLR ( contains pointer + native code)
+		
+				unsafe  void display(){
+					int * ptr= malloc( sizeof(struct student));
+					.........
+					.........
+
+					if (ptr ==null)
+					{ 
+					   free(ptr)
+					}
+				
+				}
+
+
+
+		ildasm.exe  is a tool to view IL code, manifest, metadata, PE header, CLR Header
+		(is available with .net Framework)
+
+		System.Reflection library
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
