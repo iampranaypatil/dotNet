@@ -1,0 +1,12 @@
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\bin\Debug\net7.0\TaxHandlers.deps.json
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\bin\Debug\net7.0\TaxHandlers.dll
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\bin\Debug\net7.0\TaxHandlers.pdb
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.csproj.AssemblyReference.cache
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.GeneratedMSBuildEditorConfig.editorconfig
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.AssemblyInfoInputs.cache
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.AssemblyInfo.cs
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.csproj.CoreCompileInputs.cache
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.dll
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\refint\TaxHandlers.dll
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\TaxHandlers.pdb
+D:\RaviT\Day_6\EventDrivenSolution\TaxHandlers\obj\Debug\net7.0\ref\TaxHandlers.dll

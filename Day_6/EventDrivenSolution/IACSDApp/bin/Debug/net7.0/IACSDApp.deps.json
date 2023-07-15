@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IACSDApp/1.0.0": {
+        "dependencies": {
+          "Banking": "1.0.0",
+          "CorporatePolicy": "1.0.0",
+          "TaxHandlers": "1.0.0"
+        },
+        "runtime": {
+          "IACSDApp.dll": {}
+        }
+      },
+      "Banking/1.0.0": {
+        "dependencies": {
+          "CorporatePolicy": "1.0.0"
+        },
+        "runtime": {
+          "Banking.dll": {}
+        }
+      },
+      "CorporatePolicy/1.0.0": {
+        "runtime": {
+          "CorporatePolicy.dll": {}
+        }
+      },
+      "TaxHandlers/1.0.0": {
+        "runtime": {
+          "TaxHandlers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IACSDApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CorporatePolicy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxHandlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.deps.json
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.dll
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.pdb
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.csproj.AssemblyReference.cache
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.GeneratedMSBuildEditorConfig.editorconfig
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.AssemblyInfoInputs.cache
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.AssemblyInfo.cs
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.csproj.CoreCompileInputs.cache
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.dll
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\refint\CorporatePolicy.dll
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.pdb
+D:\RaviT\Day_6\EventDrivenSolution\CorporatePolicy\obj\Debug\net7.0\ref\CorporatePolicy.dll
