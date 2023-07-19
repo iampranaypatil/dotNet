@@ -1,0 +1,12 @@
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\rr\Desktop\DOT_NET\Sir_Daily_code\Day_09\Day_(09)11_2nd\ECommerce\BOL\obj\Debug\net7.0\ref\BOL.dll
